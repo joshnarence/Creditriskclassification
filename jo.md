@@ -2,20 +2,20 @@ Credit Risk Classification
 Instructions
 The instructions for this Challenge are divided into the following subsections:
 
-Split the Data into Training and Testing Sets
+1.Split the Data into Training and Testing Sets
 
-Create a Logistic Regression Model with the Original Data
+2.Create a Logistic Regression Model with the Original Data
 
-Write a Credit Risk Analysis Report
+3.Write a Credit Risk Analysis Report
 
-Split the Data into Training and Testing Sets
-Open the starter code notebook and use it to complete the following steps:
+4.Split the Data into Training and Testing Sets
+5.Open the starter code notebook and use it to complete the following steps:
 
-Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
-Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns.
-Split the data into training and testing datasets by using train_test_split.
-Create a Logistic Regression Model with the Original Data
-Use your knowledge of logistic regression to complete the following steps:
+6.Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
+7.Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns.
+8.Split the data into training and testing datasets by using train_test_split.
+9.Create a Logistic Regression Model with the Original Data
+10.Use your knowledge of logistic regression to complete the following steps:
 
 Fit a logistic regression model by using the training data (X_train and y_train).
 Save the predictions for the testing data labels by using the testing feature data (X_test) and the fitted model.
